@@ -3,6 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+# HR Employee Attrition Prediction (Machine Learning Project)
+
 ## Overview
 
 Employee attrition is a major challenge for organizations because high turnover can increase recruitment costs, reduce productivity, and negatively affect team performance. This project uses HR analytics data and machine learning techniques to analyze employee behaviour and predict whether an employee is likely to resign.
