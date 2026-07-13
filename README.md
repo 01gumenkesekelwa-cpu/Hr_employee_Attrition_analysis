@@ -99,12 +99,15 @@ Business Insights
 ### Attrition Distribution
 
 Understanding the distribution of employees who stayed versus those who left the organization.
+
 <img width="245" height="61" alt="image" src="https://github.com/user-attachments/assets/8306562a-74fb-4ca8-a7d2-26b31067c9ef" />
+
 ---
 
 ### Attrition by Department
 
 Analysis of attrition patterns across different departments.
+
 <img width="250" height="206" alt="image" src="https://github.com/user-attachments/assets/f4cb8f57-2a6b-457a-b1f7-b8764ccf86b2" />
 
 ---
@@ -130,6 +133,7 @@ The model was evaluated using:
 - Confusion Matrix
 
 ### Classification Metrics
+
 <img width="434" height="173" alt="image" src="https://github.com/user-attachments/assets/4c229ed7-5676-47f6-bae5-eeec46135cb0" />
 
 
@@ -142,11 +146,13 @@ The results demonstrate the challenges associated with predicting employee attri
 ### Confusion Matrix
 
 <img width="131" height="58" alt="image" src="https://github.com/user-attachments/assets/3575e976-f64a-400a-9c90-30a52a21910d" />
+
 ---
 
 ## 📌 Feature Importance
 
 The Logistic Regression coefficients indicate which variables were most strongly associated with employee attrition risk.
+
 <img width="289" height="364" alt="image" src="https://github.com/user-attachments/assets/c7d41c5c-e6b9-424c-8142-b8d5d2e3ea57" />
 
 ### Key Influential Features
